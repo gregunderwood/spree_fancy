@@ -1,4 +1,3 @@
-//= require store/spree_core
 //= require jquery.hoverIntent
 //= require jquery-ui
 //= require jquery.bxslider
