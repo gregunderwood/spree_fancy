@@ -23,6 +23,7 @@
 @import 'components/messages';
 @import 'components/navigation';
 @import 'components/pagination';
+@import 'components/footer';
 
 @import 'sections/checkout';
 @import 'sections/cart';
@@ -30,3 +31,7 @@
 @import 'sections/contact_us';
 
 @import 'shared/media';
+
+body { 
+  border-top: 5px solid $header_top_border_color;
+}
